@@ -10,7 +10,7 @@
 
 ###
 
-**<p align="center">I am currently looking for an internship or a job! 😊</p>**
+**<p align="center">I hold a Bachelor's in Business Administration and have completed two postgraduate courses in Strategic People Management and Project Management. I hope to blend both worlds to bridge the gap between strategy and execution, ensuring that projects are well-managed, visually engaging, and effective. With this in mind, I'm expanding my skill set by venturing into Front-end Development and UI Design. I want to create visually appealing, user-friendly interfaces that enhance user experience.<br><br>I am currently looking for an internship or a job! 😊</p>**
 
 ### 💻 Frontend:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
