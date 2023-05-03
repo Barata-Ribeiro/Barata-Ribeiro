@@ -9,7 +9,7 @@
 
 ---
 
-**<p align="center">I hold a Bachelor's in Business Administration and have completed two postgraduate courses in Strategic People Management and Project Management. I hope to blend both worlds to bridge the gap between strategy and execution, ensuring that projects are well-managed, visually engaging, and effective. With this in mind, I'm expanding my skill set by venturing into Front-end Development and UI Design. I want to create visually appealing, user-friendly interfaces that enhance user experience.<br><br>I am currently looking for an internship or a job! 😊</p>**
+**<p align="center">I hold a Bachelor's in Business Administration and have completed two graduate courses in Strategic People Management and Project Management. I hope to blend both worlds to bridge the gap between strategy and execution, ensuring that projects are well-managed, visually engaging, and effective. With this in mind, I'm expanding my skill set by venturing into Front-end Development and UI Design. I want to create visually appealing, user-friendly interfaces that enhance user experience.<br><br>I am currently looking for an internship or a job! 😊</p>**
 
 ### 💻 Frontend:
 
@@ -27,4 +27,4 @@
 
 ###
 
-[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/JoaoMJBRibeiro)
+[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/JoaoMJBRibeiro) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-mendes-jorge-barata-ribeiro-645073118/)
