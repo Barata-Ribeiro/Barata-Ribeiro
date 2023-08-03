@@ -2,15 +2,6 @@
 
 # Front-End Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
 
-<div align="center">
-  <img src="https://github-readme-stats-85p5d4506-barata-ribeiro.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-85p5d4506-barata-ribeiro.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
-</div>
-
----
-
-### About Me 👨‍💻
-
 Educated with a Bachelor's in ***Business Administration*** and post-graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Front-End Development*** and ***UI Design*** through intensive courses, aspiring to create user-friendly interfaces that significantly enhance user experience.
 
 I am currently seeking an internship or a position where I can utilize and develop my skills further. 😊
@@ -45,8 +36,26 @@ I am currently seeking an internship or a position where I can utilize and devel
 </p></td></tr></table>
 </div>
 
----
+### Projects 🗄️
 
-### Connect With Me 🤝
+| Project Name | Type | Repository |
+| ------------ | ---------- | ---------- |
+| [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | Both | [Link](https://github.com/Barata-Ribeiro/dio_angular_blog) |
+| [Dogs](https://github.com/Barata-Ribeiro/Dogs) | Course | [Link](https://github.com/Barata-Ribeiro/Dogs) |
+| [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | Personal | [Link](https://github.com/Barata-Ribeiro/delightful_indulgence) |
+| [Spectre](https://github.com/Barata-Ribeiro/spectre_band) | Personal | [Link](https://github.com/Barata-Ribeiro/spectre_band) |
+| [GitPop](https://github.com/Barata-Ribeiro/GitPop) | Personal | [Link](https://github.com/Barata-Ribeiro/GitPop) |
+| [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | Course | [Link](https://github.com/Barata-Ribeiro/animais-fantasticos) |
+| [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | Both | [Link](https://github.com/Barata-Ribeiro/surfbot) |
+| [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | Course | [Link](https://github.com/Barata-Ribeiro/steelmane-motorcycles) |
+
+---
+<div align="center">
+  <img src="https://github-readme-stats-85p5d4506-barata-ribeiro.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-85p5d4506-barata-ribeiro.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+
+  ### Connect With Me 🤝
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://barataribeiro.com/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-mendes-jorge-barata-ribeiro-645073118/) [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/JoaoMJBRibeiro)
+</div>
+
