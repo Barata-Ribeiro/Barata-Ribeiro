@@ -6,9 +6,11 @@ Educated with a Bachelor's in ***Business Administration*** and post-graduate co
 
 I am currently seeking an internship or a position where I can utilize and develop my skills further. 😊
 
+
+<div align="center">
+
 ### Skills & Expertise 🖥️
 
-<div align="left">
 <table border="0"><tr><td valign="top" width="33%">
 <h4 align="center">Frontend</h4>
 <p align="center">
@@ -36,8 +38,10 @@ I am currently seeking an internship or a position where I can utilize and devel
 </p></td></tr></table>
 </div>
 
+<div align="center">
+    
 ### Projects 🗄️
-
+    
 | Project Name | Type | Repository |
 | ------------ | ---------- | ---------- |
 | [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | Both | [Link](https://github.com/Barata-Ribeiro/dio_angular_blog) |
@@ -48,6 +52,8 @@ I am currently seeking an internship or a position where I can utilize and devel
 | [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | Course | [Link](https://github.com/Barata-Ribeiro/animais-fantasticos) |
 | [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | Both | [Link](https://github.com/Barata-Ribeiro/surfbot) |
 | [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | Course | [Link](https://github.com/Barata-Ribeiro/steelmane-motorcycles) |
+
+</div>
 
 ---
 <div align="center">
