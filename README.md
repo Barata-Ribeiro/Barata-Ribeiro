@@ -42,16 +42,17 @@ I am currently seeking an internship or a position where I can utilize and devel
     
 ### Projects 🗄️
     
-| Project Name | Type | Repository |
-| ------------ | ---------- | ---------- |
-| [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | Both | [Link](https://github.com/Barata-Ribeiro/dio_angular_blog) |
-| [Dogs](https://github.com/Barata-Ribeiro/Dogs) | Course | [Link](https://github.com/Barata-Ribeiro/Dogs) |
-| [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | Personal | [Link](https://github.com/Barata-Ribeiro/delightful_indulgence) |
-| [Spectre](https://github.com/Barata-Ribeiro/spectre_band) | Personal | [Link](https://github.com/Barata-Ribeiro/spectre_band) |
-| [GitPop](https://github.com/Barata-Ribeiro/GitPop) | Personal | [Link](https://github.com/Barata-Ribeiro/GitPop) |
-| [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | Course | [Link](https://github.com/Barata-Ribeiro/animais-fantasticos) |
-| [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | Both | [Link](https://github.com/Barata-Ribeiro/surfbot) |
-| [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | Course | [Link](https://github.com/Barata-Ribeiro/steelmane-motorcycles) |
+| Name | Type <br/> (Course/Personal) |
+| ------------ | ---------- |
+| [My Shopping List](https://github.com/Barata-Ribeiro/pwa_shopping_list) | <p align="center">Both</p> | 
+| [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | <p align="center">Both</p> |
+| [Dogs](https://github.com/Barata-Ribeiro/Dogs) | <p align="center">Course</p> | 
+| [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | <p align="center">Personal</p> | 
+| [Spectre](https://github.com/Barata-Ribeiro/spectre_band) | <p align="center">Personal</p> |
+| [GitPop](https://github.com/Barata-Ribeiro/GitPop) | <p align="center">Personal</p> |
+| [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | <p align="center">Course</p> |
+| [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | <p align="center">Both</p> |
+| [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | <p align="center">Course</p> |
 
 </div>
 
