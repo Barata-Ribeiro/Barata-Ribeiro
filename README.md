@@ -24,7 +24,7 @@ I am currently seeking an internship or a position where I can utilize and devel
 <h4 align="center">Learning</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,typescript&perline=2" alt="Currently Learning">
+        <img src="https://skillicons.dev/icons?i=angular,typescript,java&perline=2" alt="Currently Learning">
     </a>
 </p>
 </td>
@@ -42,17 +42,17 @@ I am currently seeking an internship or a position where I can utilize and devel
     
 ### Projects 🗄️
     
-| Name | Type <br/> (Course/Personal) |
-| ------------ | ---------- |
-| [My Shopping List](https://github.com/Barata-Ribeiro/pwa_shopping_list) | <p align="center">Both</p> | 
-| [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | <p align="center">Both</p> |
-| [Dogs](https://github.com/Barata-Ribeiro/Dogs) | <p align="center">Course</p> | 
-| [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | <p align="center">Personal</p> | 
-| [Spectre](https://github.com/Barata-Ribeiro/spectre_band) | <p align="center">Personal</p> |
-| [GitPop](https://github.com/Barata-Ribeiro/GitPop) | <p align="center">Personal</p> |
-| [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | <p align="center">Course</p> |
-| [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | <p align="center">Both</p> |
-| [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | <p align="center">Course</p> |
+| Name | Type <br/> (Course/Personal) | Main <br/> Technology |
+| ------------ | ---------- | ---------- |
+| [My Shopping List](https://github.com/Barata-Ribeiro/pwa_shopping_list) | <p align="center">Both</p> | <p align="center">JavaScript</p> |
+| [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | <p align="center">Both</p> | <p align="center">Angular</p> |
+| [Dogs](https://github.com/Barata-Ribeiro/Dogs) | <p align="center">Course</p> | <p align="center">ReactJS</p> |
+| [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | <p align="center">Personal</p> | <p align="center">ReactJS</p> |
+| [Spectre](https://github.com/Barata-Ribeiro/spectre_band) | <p align="center">Personal</p> | <p align="center">JavaScript</p> |
+| [GitPop](https://github.com/Barata-Ribeiro/GitPop) | <p align="center">Personal</p> | <p align="center">ReactJS</p> |
+| [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | <p align="center">Course</p> | <p align="center">JavaScript</p> |
+| [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | <p align="center">Both</p> | <p align="center">JavaScript</p> |
+| [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | <p align="center">Course</p> | <p align="center">HTML/CSS</p> |
 
 </div>
 
