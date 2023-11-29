@@ -44,6 +44,7 @@ I am currently seeking an internship or a position where I can utilize and devel
     
 | Name | Type <br/> (Course/Personal) | Main <br/> Technology |
 | ------------ | ---------- | ---------- |
+| [Birdy (Social Network)](https://github.com/Barata-Ribeiro/Birdy) | <p align="center">Personal</p> | <p align="center">ReactJS & Express</p> |
 | [My Shopping List](https://github.com/Barata-Ribeiro/pwa_shopping_list) | <p align="center">Both</p> | <p align="center">JavaScript</p> |
 | [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | <p align="center">Both</p> | <p align="center">Angular</p> |
 | [Dogs](https://github.com/Barata-Ribeiro/Dogs) | <p align="center">Course</p> | <p align="center">ReactJS</p> |
@@ -58,8 +59,8 @@ I am currently seeking an internship or a position where I can utilize and devel
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-i8zbjudae-barata-ribeiro.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-i8zbjudae-barata-ribeiro.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-3c9symbrp-barata-ribeiro.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-3c9symbrp-barata-ribeiro.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
