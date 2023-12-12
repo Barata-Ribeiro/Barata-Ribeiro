@@ -11,7 +11,8 @@ I am currently seeking an internship or a position where I can utilize and devel
 
 ### Skills & Expertise 🖥️
 
-<table border="0"><tr><td valign="top" width="33%">
+<table border="0"><tr>
+<td valign="top" width="25%">
 <h4 align="center">Frontend</h4>
 <p align="center">
     <a href="https://skillicons.dev">
@@ -20,20 +21,29 @@ I am currently seeking an internship or a position where I can utilize and devel
 </p>
 </td>
 
-<td valign="top" width="33%">
-<h4 align="center">Learning</h4>
+<td valign="top" width="25%">
+<h4 align="center">Backend</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=angular,java&perline=2" alt="Currently Learning">
+        <img src="https://skillicons.dev/icons?i=nodejs,typescript,express&perline=2" alt="BackEnd Stack">
     </a>
 </p>
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+<h4 align="center">Studying</h4>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vim,angular,java&perline=2" alt="Currently Learning">
+    </a>
+</p>
+</td>
+
+<td valign="top" width="25%">
   <h4 align="center">Tools</h4>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,vscode,git,github&perline=2" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,vscode,linux,git,github&perline=2" />
   </a>
 </p></td></tr></table>
 </div>
