@@ -52,25 +52,27 @@ I am currently seeking an internship or a position where I can utilize and devel
     
 ### Projects 🗄️
     
-| Name | Type <br/> (Course/Personal) | Main <br/> Technology |
-| ------------ | ---------- | ---------- |
-| [Birdy (Social Network)](https://github.com/Barata-Ribeiro/Birdy) | <p align="center">Personal</p> | <p align="center">ReactJS & Express</p> |
-| [My Shopping List](https://github.com/Barata-Ribeiro/pwa_shopping_list) | <p align="center">Both</p> | <p align="center">JavaScript</p> |
-| [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | <p align="center">Both</p> | <p align="center">Angular</p> |
-| [Dogs](https://github.com/Barata-Ribeiro/Dogs) | <p align="center">Course</p> | <p align="center">ReactJS</p> |
-| [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | <p align="center">Personal</p> | <p align="center">ReactJS</p> |
-| [Spectre](https://github.com/Barata-Ribeiro/spectre_band) | <p align="center">Personal</p> | <p align="center">JavaScript</p> |
-| [GitPop](https://github.com/Barata-Ribeiro/GitPop) | <p align="center">Personal</p> | <p align="center">ReactJS</p> |
-| [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | <p align="center">Course</p> | <p align="center">JavaScript</p> |
-| [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | <p align="center">Both</p> | <p align="center">JavaScript</p> |
-| [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | <p align="center">Course</p> | <p align="center">HTML/CSS</p> |
+| Name | Main <br/> Technology |
+| ------------ | ---------- |
+| [Birdy (Social Network)](https://github.com/Barata-Ribeiro/Birdy) | <p align="center">NextJS & Express.js</p> |
+| [My Shopping List](https://github.com/Barata-Ribeiro/pwa_shopping_list) | <p align="center">JavaScript</p> |
+| [Sector 67 Blog](https://github.com/Barata-Ribeiro/dio_angular_blog) | <p align="center">Angular</p> |
+| [Dogs Next](https://github.com/Barata-Ribeiro/Dogs_Next) | <p align="center">NextJS</p> |
+| [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | <p align="center">ReactJS</p> |
+| [Spectre](https://github.com/Barata-Ribeiro/spectre_band) | <p align="center">JavaScript</p> |
+| [GitPop](https://github.com/Barata-Ribeiro/GitPop) | <p align="center">ReactJS</p> |
+| [Fantastic Beasts](https://github.com/Barata-Ribeiro/animais-fantasticos) | <p align="center">JavaScript</p> |
+| [Surfbot](https://github.com/Barata-Ribeiro/surfbot) | <p align="center">JavaScript</p> |
+| [SteelMane Motorcycles](https://github.com/Barata-Ribeiro/steelmane-motorcycles) | <p align="center">HTML/CSS</p> |
+
+<p align="center">You can find more of my other projects <a href="https://github.com/Barata-Ribeiro?tab=repositories" target="_blank" rel="noreferrer noopener">here</a>.</p>
 
 </div>
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-msdmejlrp-barata-ribeiro.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-msdmejlrp-barata-ribeiro.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-8h0rtzqlx-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-8h0rtzqlx-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
