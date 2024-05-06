@@ -25,16 +25,16 @@ I am currently seeking an internship or a position where I can utilize and devel
 <h4 align="center">Backend</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,typescript,express&perline=2" alt="BackEnd Stack">
+        <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,spring&perline=2" alt="BackEnd Stack">
     </a>
 </p>
 </td>
 
 <td valign="top" width="25%">
-<h4 align="center">Studying</h4>
+<h4 align="center">Improving</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,vim,java&perline=2" alt="Currently Learning">
+        <img src="https://skillicons.dev/icons?i=arch,vim,java,spring&perline=2" alt="Currently Learning">
     </a>
 </p>
 </td>
@@ -43,7 +43,7 @@ I am currently seeking an internship or a position where I can utilize and devel
   <h4 align="center">Tools</h4>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,vscode,git,github&perline=2" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,vscode,idea,git,github&perline=2" />
   </a>
 </p></td></tr></table>
 </div>
