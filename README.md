@@ -25,7 +25,7 @@ I am currently seeking an internship or a position where I can utilize and devel
 <h4 align="center">Backend</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,spring&perline=2" alt="BackEnd Stack">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&perline=2" alt="BackEnd Stack">
     </a>
 </p>
 </td>
@@ -34,7 +34,7 @@ I am currently seeking an internship or a position where I can utilize and devel
 <h4 align="center">Improving</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arch,vim,java,spring&perline=2" alt="Currently Learning">
+        <img src="https://skillicons.dev/icons?i=vim,spring,postgres,mysql&perline=2" alt="Currently Learning">
     </a>
 </p>
 </td>
@@ -43,7 +43,7 @@ I am currently seeking an internship or a position where I can utilize and devel
   <h4 align="center">Tools</h4>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,vscode,idea,git,github&perline=2" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,idea,vscode,arch,git,github&perline=2" />
   </a>
 </p></td></tr></table>
 </div>
@@ -71,8 +71,8 @@ I am currently seeking an internship or a position where I can utilize and devel
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-e28xfroa3-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-e28xfroa3-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-99tgqv974-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-99tgqv974-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
