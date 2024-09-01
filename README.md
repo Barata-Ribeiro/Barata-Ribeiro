@@ -2,7 +2,7 @@
 
 # Full-stack Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
 
-Educated with a Bachelor's in ***Business Administration*** and post-graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Programming*** and ***UI Design*** through intensive courses, aspiring to create user-friendly interfaces that significantly enhance user experience.
+Educated with a Bachelor's in ***Business Administration*** and post-graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Full-stack development*** and ***UI Design*** through intensive courses, aspiring to create user-friendly interfaces that significantly enhance user experience.
 
 I am currently seeking an internship or a position where I can utilize and develop my skills further. 😊
 
@@ -54,8 +54,10 @@ I am currently seeking an internship or a position where I can utilize and devel
     
 | Name | Main <br/> Technology |
 | ------------ | ---------- |
+| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/mediManage/) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Sabiá (Microblogging Network)](https://github.com/Barata-Ribeiro/sabia) | <p align="center">Java Spring Boot & Next.js</p> |
 | [Birdy (Social Network)](https://github.com/Barata-Ribeiro/Birdy) | <p align="center">Express.js & Next.js</p> |
+| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">JavaScript</p>
 | [My Shopping List](https://github.com/Barata-Ribeiro/pwa_shopping_list) | <p align="center">JavaScript</p> |
 | [Dogs Next](https://github.com/Barata-Ribeiro/Dogs_Next) | <p align="center">Next.js</p> |
 | [Delightful Indulgence](https://github.com/Barata-Ribeiro/delightful_indulgence) | <p align="center">React.js</p> |
@@ -71,8 +73,8 @@ I am currently seeking an internship or a position where I can utilize and devel
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-e5sxfp1f3-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-e5sxfp1f3-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-g6yq0kqe2-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-g6yq0kqe2-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
