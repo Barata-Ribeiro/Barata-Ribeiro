@@ -55,6 +55,8 @@ I am currently seeking an internship or a position where I can utilize and devel
 | Name | Main <br/> Technology |
 | ------------ | ---------- |
 | [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/mediManage/) | <p align="center">Java Spring Boot & Next.js</p> | 
+| [Taskr (Project Management System)](https://github.com/Barata-Ribeiro/Taskr/) | <p align="center">Java Spring Boot & Next.js</p> | 
+| [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
 | [Sabiá (Microblogging Network)](https://github.com/Barata-Ribeiro/sabia) | <p align="center">Java Spring Boot & Next.js</p> |
 | [Birdy (Social Network)](https://github.com/Barata-Ribeiro/Birdy) | <p align="center">Express.js & Next.js</p> |
 | [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">JavaScript</p>
@@ -73,8 +75,8 @@ I am currently seeking an internship or a position where I can utilize and devel
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-k4xw7p4dt-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-k4xw7p4dt-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-2wl2vh0jn-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-2wl2vh0jn-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
