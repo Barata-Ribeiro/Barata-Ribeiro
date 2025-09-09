@@ -34,7 +34,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 <h4 align="center">Improving</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,postgres,mysql&perline=2" alt="Currently Learning">
+        <img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql&perline=2" alt="Currently Learning">
     </a>
 </p>
 </td>
@@ -54,6 +54,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
     
 | Name | Main <br/> Technology |
 | ------------ | ---------- |
+| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Next.js</p> |
 | [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Java Spring Boot & Thymeleaf</p> | 
 | [Sentinel of Liberty (Article Writing)](https://github.com/Barata-Ribeiro/SentinelOfLiberty) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/mediManage/) | <p align="center">Java Spring Boot & Next.js</p> | 
@@ -61,7 +62,6 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 | [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
 | [Sabiá (Microblogging Network)](https://github.com/Barata-Ribeiro/sabia) | <p align="center">Java Spring Boot & Next.js</p> |
 | [Birdy (Social Network)](https://github.com/Barata-Ribeiro/Birdy) | <p align="center">Express.js & Next.js</p> |
-| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">JavaScript</p> |
 
 <p align="center">You can find my older other projects <a href="https://github.com/Barata-Ribeiro?tab=repositories" target="_blank" rel="noreferrer noopener">here</a>.</p>
 
