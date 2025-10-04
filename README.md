@@ -2,7 +2,7 @@
 
 # Web Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
 
-Educated with a Bachelor's in ***Business Administration*** and post-graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Full-stack development*** and ***UI Design*** through intensive courses, aspiring to create user-friendly interfaces that significantly enhance user experience, finally becoming a competent Web Developer.
+Graduated with a Bachelor's in ***Business Administration*** and post-graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Full-stack development*** and ***UI Design*** through intensive courses, aspiring to create user-friendly interfaces that significantly enhance user experience, finally becoming a competent Web Developer.
 
 I am currently seeking an entry-level or a junior position where I can utilize and develop my skills further. 😊
 
@@ -57,7 +57,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 | [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Next.js</p> |
 | [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Java Spring Boot & Thymeleaf</p> | 
 | [Sentinel of Liberty (Article Writing)](https://github.com/Barata-Ribeiro/SentinelOfLiberty) | <p align="center">Java Spring Boot & Next.js</p> | 
-| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/mediManage/) | <p align="center">Java Spring Boot & Next.js</p> | 
+| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/mediManage/) | <p align="center">Laravel 12 & Inertia.js (react)</p> | 
 | [Taskr (Project Management System)](https://github.com/Barata-Ribeiro/Taskr/) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
 | [Sabiá (Microblogging Network)](https://github.com/Barata-Ribeiro/sabia) | <p align="center">Java Spring Boot & Next.js</p> |
@@ -69,8 +69,8 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-1g3zc0g40-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-1g3zc0g40-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-kfzzgm9ba-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-kfzzgm9ba-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
