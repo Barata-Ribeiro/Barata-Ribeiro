@@ -55,9 +55,9 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 | Name | Main <br/> Technology |
 | ------------ | ---------- |
 | [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Next.js</p> |
+| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/mediManage/) | <p align="center">Laravel 12 & Inertia.js (react)</p> | 
 | [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Java Spring Boot & Thymeleaf</p> | 
 | [Sentinel of Liberty (Article Writing)](https://github.com/Barata-Ribeiro/SentinelOfLiberty) | <p align="center">Java Spring Boot & Next.js</p> | 
-| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/mediManage/) | <p align="center">Laravel 12 & Inertia.js (react)</p> | 
 | [Taskr (Project Management System)](https://github.com/Barata-Ribeiro/Taskr/) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
 | [Sabiá (Microblogging Network)](https://github.com/Barata-Ribeiro/sabia) | <p align="center">Java Spring Boot & Next.js</p> |
@@ -69,8 +69,8 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-8vp0v7fop-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-8vp0v7fop-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-c1l1i111y-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-c1l1i111y-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
