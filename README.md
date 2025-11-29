@@ -16,7 +16,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 <h4 align="center">Frontend</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,nextjs,angular&perline=2" alt="FrontEnd Stack">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,nextjs,angular&perline=2" alt="Front End Technologies are HTML, CSS, Tailwind CSS, TypeScript, Next.js, Angular">
     </a>
 </p>
 </td>
@@ -25,7 +25,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 <h4 align="center">Backend</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,laravel&perline=2" alt="BackEnd Stack">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,laravel&perline=2" alt="Back End Technologies are Node.js, Express.js, Java, Spring Boot, PHP, Laravel">
     </a>
 </p>
 </td>
@@ -34,7 +34,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 <h4 align="center">Improving</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql&perline=2" alt="Currently Learning">
+        <img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql&perline=2" alt="Currently learning and/or improving technologies such as Laravel, PHP, PostgreSQL, MySQL">
     </a>
 </p>
 </td>
@@ -43,7 +43,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
   <h4 align="center">Tools</h4>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,idea,vscode,arch,git&perline=2" />
+    <img src="https://skillicons.dev/icons?i=ps,figma,idea,vscode,arch,git&perline=2" alt="Softwares and Tools used are Photoshop, Figma, Visual Studio Code, Arch Linux, GIT" />
   </a>
 </p></td></tr></table>
 </div>
