@@ -2,7 +2,7 @@
 
 # Web Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
 
-Graduated with a Bachelor's in ***Business Administration*** and post-graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Full-stack development*** and ***UI Design*** through intensive courses, aspiring to create user-friendly interfaces that significantly enhance user experience, finally becoming a competent Web Developer.
+Graduated with a Bachelor's in ***Business Administration*** and graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Web Development*** and ***UI Design*** through intensive courses, with the aim of crafting visually appealing, user-friendly interfaces that enhance the user experience. In addition, I am eager to leverage my unique skill set to contribute to the success of innovative teams and organizations.
 
 I am currently seeking an entry-level or a junior position where I can utilize and develop my skills further. 😊
 
@@ -70,8 +70,8 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-azufg3m2m-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-azufg3m2m-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-klcj7f9ch-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-klcj7f9ch-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
