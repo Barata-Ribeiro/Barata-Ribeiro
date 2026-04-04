@@ -54,10 +54,10 @@ I am currently seeking an entry-level or a junior position where I can utilize a
     
 | Name | Main <br/> Technology |
 | ------------ | ---------- |
-| [OpenAxis (ERP)](https://github.com/Barata-Ribeiro/OpenAxis/) | <p align="center">Laravel 12 & Inertia.js (react)</p> | 
+| [OpenAxis (ERP)](https://github.com/Barata-Ribeiro/OpenAxis/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
 | [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Next.js</p> |
-| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/MediManage/) | <p align="center">Laravel 12 & Inertia.js (react)</p> | 
-| [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Java Spring Boot & Thymeleaf</p> | 
+| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/MediManage/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
+| [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Laravel 13 & Inertia.js v3 (react)</p> | 
 | [Sentinel of Liberty (Article Writing)](https://github.com/Barata-Ribeiro/SentinelOfLiberty) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr (Project Management System)](https://github.com/Barata-Ribeiro/Taskr/) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
