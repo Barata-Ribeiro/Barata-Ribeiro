@@ -31,10 +31,10 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 </td>
 
 <td valign="top" width="25%">
-<h4 align="center">Improving</h4>
+<h4 align="center">Databases</h4>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql&perline=2" alt="Currently learning and/or improving technologies such as Laravel, PHP, PostgreSQL, MySQL">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,&perline=2" alt="Database Technologies are PostgreSQL, MySQL">
     </a>
 </p>
 </td>
@@ -54,10 +54,10 @@ I am currently seeking an entry-level or a junior position where I can utilize a
     
 | Name | Main <br/> Technology |
 | ------------ | ---------- |
-| [OpenAxis (ERP)](https://github.com/Barata-Ribeiro/OpenAxis/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
-| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Next.js</p> |
-| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/MediManage/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
 | [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Laravel 13 & Inertia.js v3 (react)</p> | 
+| [OpenAxis (ERP)](https://github.com/Barata-Ribeiro/OpenAxis/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
+| [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/MediManage/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
+| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Next.js</p> |
 | [Sentinel of Liberty (Article Writing)](https://github.com/Barata-Ribeiro/SentinelOfLiberty) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr (Project Management System)](https://github.com/Barata-Ribeiro/Taskr/) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
