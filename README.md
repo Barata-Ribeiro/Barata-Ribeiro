@@ -1,11 +1,10 @@
 ![banner](https://github.com/Barata-Ribeiro/Barata-Ribeiro/blob/main/header.png)
 
-# Web Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
+# Web Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/960px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
 
-Graduated with a Bachelor's in ***Business Administration*** and graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution, managing visually engaging and practical projects. I'm expanding my horizons into ***Web Development*** and ***UI Design*** through intensive courses, with the aim of crafting visually appealing, user-friendly interfaces that enhance the user experience. In addition, I am eager to leverage my unique skill set to contribute to the success of innovative teams and organizations.
+Graduated with a Bachelor's in ***Business Administration*** and graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution to manage visually engaging and practical projects. I am a ***Web Developer*** and ***UI Designer*** with a few years of experience — self-taught through intensive courses — crafting visually appealing, user-friendly interfaces that enhance the user experience. In addition, I am eager to leverage my unique skill set to contribute to the success of innovative teams and organizations.
 
-I am currently seeking an entry-level or a junior position where I can utilize and develop my skills further. 😊
-
+I am currently seeking a junior or similar position where I can further develop and apply my skills. 😊
 
 <div align="center">
 
@@ -57,7 +56,7 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 | [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Laravel 13 & Inertia.js v3 (react)</p> | 
 | [OpenAxis (ERP)](https://github.com/Barata-Ribeiro/OpenAxis/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
 | [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/MediManage/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
-| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Next.js</p> |
+| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Vite.js & React Router</p> |
 | [Sentinel of Liberty (Article Writing)](https://github.com/Barata-Ribeiro/SentinelOfLiberty) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr (Project Management System)](https://github.com/Barata-Ribeiro/Taskr/) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
@@ -70,8 +69,8 @@ I am currently seeking an entry-level or a junior position where I can utilize a
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-dnz8phshg-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
-  <img src="https://github-readme-stats-dnz8phshg-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-kl6lh55ce-barataribeiros-projects.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&username=Barata-Ribeiro" height="150" alt="stats graph" decoding="async" loading="lazy" />
+  <img src="https://github-readme-stats-kl6lh55ce-barataribeiros-projects.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&username=Barata-Ribeiro" height="150" alt="languages graph" decoding="async" loading="lazy" />
 
   ### Connect With Me 🤝
 
