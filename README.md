@@ -1,10 +1,10 @@
 ![banner](https://github.com/Barata-Ribeiro/Barata-Ribeiro/blob/main/header.png)
 
-# Web Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/960px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
+# Software Developer <br/> & UI Designer | 📍 Brazil ... <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/960px-Pastel_Neurodiversity_Symbol.png" align="center" height="12" width="26" alt="Neurodiversity Symbol">
 
-Graduated with a Bachelor's in ***Business Administration*** and graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution to manage visually engaging and practical projects. I am a ***Web Developer*** and ***UI Designer*** with a few years of experience — self-taught through intensive courses — crafting visually appealing, user-friendly interfaces that enhance the user experience. In addition, I am eager to leverage my unique skill set to contribute to the success of innovative teams and organizations.
+Graduated with a Bachelor's in ***Business Administration*** and graduate courses in ***Strategic People Management*** and ***Project Management***, I aim to blend strategy and execution to manage visually engaging and practical projects. I am a ***Software Developer*** and ***UI Designer*** with a few years of experience — self-taught through intensive courses — crafting visually appealing, user-friendly interfaces that enhance the user experience. In addition, I am eager to leverage my unique skill set to contribute to the success of innovative teams and organizations.
 
-I am currently seeking a junior or similar position where I can further develop and apply my skills. 😊
+I am currently seeking a junior or similar entrance position where I can further develop and apply my skills. 😊
 
 <div align="center">
 
@@ -53,10 +53,10 @@ I am currently seeking a junior or similar position where I can further develop 
     
 | Name | Main <br/> Technology |
 | ------------ | ---------- |
-| [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Laravel 13 & Inertia.js v3 (react)</p> | 
+| [MediCore (Personal Health/Fitness App)](https://github.com/Barata-Ribeiro/MediCore) | <p align="center">Laravel 13 & Inertia.js v3 (react)</p> |
+| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Vite.js & React Router</p> |
 | [OpenAxis (ERP)](https://github.com/Barata-Ribeiro/OpenAxis/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
 | [MediManage (Clinic Management System)](https://github.com/Barata-Ribeiro/MediManage/) | <p align="center">Laravel 12 & Inertia.js v2 (react)</p> | 
-| [Utilities Web App](https://github.com/Barata-Ribeiro/utilities_webapp) | <p align="center">Vite.js & React Router</p> |
 | [Sentinel of Liberty (Article Writing)](https://github.com/Barata-Ribeiro/SentinelOfLiberty) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr (Project Management System)](https://github.com/Barata-Ribeiro/Taskr/) | <p align="center">Java Spring Boot & Next.js</p> | 
 | [Taskr Mini (TODO)](https://github.com/Barata-Ribeiro/taskr_mini/) | <p align="center">TypeScript</p> | 
